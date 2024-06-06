@@ -1,0 +1,137 @@
+age,sex,chest_pain_type,resting_blood_pressure,cholesterol,fasting_blood_sugar,exercise_induced_angina,target
+63,male,asymptomatic,145,233,greater than 120mg/ml,no,1
+37,male,non-anginal pain,130,250,lower than 120mg/ml,no,1
+41,female,atypical angina,130,204,lower than 120mg/ml,no,1
+56,male,atypical angina,120,236,lower than 120mg/ml,no,1
+57,female,typical angina,120,354,lower than 120mg/ml,yes,1
+57,male,typical angina,140,192,lower than 120mg/ml,no,1
+56,female,atypical angina,140,294,lower than 120mg/ml,no,1
+44,male,atypical angina,120,263,lower than 120mg/ml,no,1
+52,male,non-anginal pain,172,199,greater than 120mg/ml,no,1
+57,male,non-anginal pain,150,168,lower than 120mg/ml,no,1
+54,male,typical angina,140,239,lower than 120mg/ml,no,1
+48,female,non-anginal pain,130,275,lower than 120mg/ml,no,1
+49,male,atypical angina,130,266,lower than 120mg/ml,no,1
+64,male,asymptomatic,110,211,lower than 120mg/ml,yes,1
+58,female,asymptomatic,150,283,greater than 120mg/ml,no,1
+50,female,non-anginal pain,120,219,lower than 120mg/ml,no,1
+58,female,non-anginal pain,120,340,lower than 120mg/ml,no,1
+66,female,asymptomatic,150,226,lower than 120mg/ml,no,1
+43,male,typical angina,150,247,lower than 120mg/ml,no,1
+69,female,asymptomatic,140,239,lower than 120mg/ml,no,1
+59,male,typical angina,135,234,lower than 120mg/ml,no,1
+44,male,non-anginal pain,130,233,lower than 120mg/ml,yes,1
+42,male,typical angina,140,226,lower than 120mg/ml,no,1
+61,male,non-anginal pain,150,243,greater than 120mg/ml,yes,1
+40,male,asymptomatic,140,199,lower than 120mg/ml,yes,1
+71,female,atypical angina,160,302,lower than 120mg/ml,no,1
+59,male,non-anginal pain,150,212,greater than 120mg/ml,no,1
+51,male,non-anginal pain,110,175,lower than 120mg/ml,no,1
+65,female,non-anginal pain,140,417,greater than 120mg/ml,no,1
+53,male,non-anginal pain,130,197,greater than 120mg/ml,no,1
+41,female,atypical angina,105,198,lower than 120mg/ml,no,1
+65,male,typical angina,120,177,lower than 120mg/ml,no,1
+44,male,atypical angina,130,219,lower than 120mg/ml,no,1
+54,male,non-anginal pain,125,273,lower than 120mg/ml,no,1
+51,male,asymptomatic,125,213,lower than 120mg/ml,yes,1
+46,female,non-anginal pain,142,177,lower than 120mg/ml,yes,1
+54,female,non-anginal pain,135,304,greater than 120mg/ml,no,1
+58,male,typical angina,150,270,lower than 120mg/ml,yes,0
+68,male,non-anginal pain,180,274,greater than 120mg/ml,yes,0
+62,female,typical angina,160,164,lower than 120mg/ml,no,0
+52,male,typical angina,128,255,lower than 120mg/ml,yes,0
+59,male,typical angina,110,239,lower than 120mg/ml,yes,0
+60,female,typical angina,150,258,lower than 120mg/ml,no,0
+49,male,non-anginal pain,120,188,lower than 120mg/ml,no,0
+59,male,typical angina,140,177,lower than 120mg/ml,yes,0
+57,male,non-anginal pain,128,229,lower than 120mg/ml,no,0
+61,male,typical angina,120,260,lower than 120mg/ml,yes,0
+39,male,typical angina,118,219,lower than 120mg/ml,no,0
+61,female,typical angina,145,307,lower than 120mg/ml,yes,0
+56,male,typical angina,125,249,greater than 120mg/ml,yes,0
+43,female,typical angina,132,341,greater than 120mg/ml,yes,0
+62,female,non-anginal pain,130,263,lower than 120mg/ml,no,0
+63,male,typical angina,130,330,greater than 120mg/ml,yes,0
+65,male,typical angina,135,254,lower than 120mg/ml,no,0
+48,male,typical angina,130,256,greater than 120mg/ml,yes,0
+63,female,typical angina,150,407,lower than 120mg/ml,no,0
+55,male,typical angina,140,217,lower than 120mg/ml,yes,0
+65,male,asymptomatic,138,282,greater than 120mg/ml,no,0
+56,female,typical angina,200,288,greater than 120mg/ml,yes,0
+54,male,typical angina,110,239,lower than 120mg/ml,yes,0
+70,male,typical angina,145,174,lower than 120mg/ml,yes,0
+62,male,atypical angina,120,281,lower than 120mg/ml,no,0
+35,male,typical angina,120,198,lower than 120mg/ml,yes,0
+59,male,asymptomatic,170,288,lower than 120mg/ml,no,0
+64,male,non-anginal pain,125,309,lower than 120mg/ml,yes,0
+47,male,non-anginal pain,108,243,lower than 120mg/ml,no,0
+57,male,typical angina,165,289,greater than 120mg/ml,no,0
+55,male,typical angina,160,289,lower than 120mg/ml,yes,0
+64,male,typical angina,120,246,lower than 120mg/ml,yes,0
+70,male,typical angina,130,322,lower than 120mg/ml,no,0
+51,male,typical angina,140,299,lower than 120mg/ml,yes,0
+58,male,typical angina,125,300,lower than 120mg/ml,no,0
+60,male,typical angina,140,293,lower than 120mg/ml,no,0
+77,male,typical angina,125,304,lower than 120mg/ml,yes,0
+35,male,typical angina,126,282,lower than 120mg/ml,yes,0
+70,male,non-anginal pain,160,269,lower than 120mg/ml,yes,0
+59,female,typical angina,174,249,lower than 120mg/ml,yes,0
+64,male,typical angina,145,212,lower than 120mg/ml,no,0
+57,male,typical angina,152,274,lower than 120mg/ml,yes,0
+56,male,typical angina,132,184,lower than 120mg/ml,yes,0
+48,male,typical angina,124,274,lower than 120mg/ml,no,0
+56,female,typical angina,134,409,lower than 120mg/ml,yes,0
+66,male,atypical angina,160,246,lower than 120mg/ml,yes,0
+54,male,atypical angina,192,283,lower than 120mg/ml,no,0
+69,male,non-anginal pain,140,254,lower than 120mg/ml,no,0
+51,male,typical angina,140,298,lower than 120mg/ml,yes,0
+62,female,typical angina,138,294,greater than 120mg/ml,no,0
+67,male,typical angina,100,299,lower than 120mg/ml,yes,0
+59,male,asymptomatic,160,273,lower than 120mg/ml,no,0
+45,male,typical angina,142,309,lower than 120mg/ml,yes,0
+58,male,typical angina,128,259,lower than 120mg/ml,yes,0
+50,male,typical angina,144,200,lower than 120mg/ml,yes,0
+62,female,typical angina,150,244,lower than 120mg/ml,yes,0
+38,male,asymptomatic,120,231,lower than 120mg/ml,yes,0
+66,female,typical angina,178,228,greater than 120mg/ml,yes,0
+52,male,typical angina,112,230,lower than 120mg/ml,no,0
+53,male,typical angina,123,282,lower than 120mg/ml,yes,0
+63,female,typical angina,108,269,lower than 120mg/ml,yes,0
+54,male,typical angina,110,206,lower than 120mg/ml,yes,0
+66,male,typical angina,112,212,lower than 120mg/ml,yes,0
+55,female,typical angina,180,327,lower than 120mg/ml,yes,0
+49,male,non-anginal pain,118,149,lower than 120mg/ml,no,0
+54,male,typical angina,122,286,lower than 120mg/ml,yes,0
+56,male,typical angina,130,283,greater than 120mg/ml,yes,0
+46,male,typical angina,120,249,lower than 120mg/ml,no,0
+61,male,asymptomatic,134,234,lower than 120mg/ml,no,0
+67,male,typical angina,120,237,lower than 120mg/ml,no,0
+58,male,typical angina,100,234,lower than 120mg/ml,no,0
+47,male,typical angina,110,275,lower than 120mg/ml,yes,0
+52,male,typical angina,125,212,lower than 120mg/ml,no,0
+58,male,typical angina,146,218,lower than 120mg/ml,no,0
+57,male,atypical angina,124,261,lower than 120mg/ml,no,0
+58,female,atypical angina,136,319,greater than 120mg/ml,no,0
+61,male,typical angina,138,166,lower than 120mg/ml,yes,0
+42,male,typical angina,136,315,lower than 120mg/ml,yes,0
+59,male,non-anginal pain,126,218,greater than 120mg/ml,no,0
+40,male,typical angina,152,223,lower than 120mg/ml,no,0
+61,male,typical angina,140,207,lower than 120mg/ml,yes,0
+46,male,typical angina,140,311,lower than 120mg/ml,yes,0
+59,male,asymptomatic,134,204,lower than 120mg/ml,no,0
+57,male,atypical angina,154,232,lower than 120mg/ml,no,0
+57,male,typical angina,110,335,lower than 120mg/ml,yes,0
+55,female,typical angina,128,205,lower than 120mg/ml,yes,0
+61,male,typical angina,148,203,lower than 120mg/ml,no,0
+58,male,typical angina,114,318,lower than 120mg/ml,no,0
+58,female,typical angina,170,225,greater than 120mg/ml,yes,0
+67,male,non-anginal pain,152,212,lower than 120mg/ml,no,0
+44,male,typical angina,120,169,lower than 120mg/ml,yes,0
+63,male,typical angina,140,187,lower than 120mg/ml,yes,0
+63,female,typical angina,124,197,lower than 120mg/ml,yes,0
+59,male,typical angina,164,176,greater than 120mg/ml,no,0
+57,female,typical angina,140,241,lower than 120mg/ml,yes,0
+45,male,asymptomatic,110,264,lower than 120mg/ml,no,0
+68,male,typical angina,144,193,greater than 120mg/ml,no,0
+57,male,typical angina,130,131,lower than 120mg/ml,yes,0
+57,female,atypical angina,130,236,lower than 120mg/ml,no,0

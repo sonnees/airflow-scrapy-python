@@ -1,0 +1,61 @@
+python -m venv venv
+.\venv\Scripts\Activate
+
+C:\SON.admin\VIII\BigData\NguyenVanSon_20049891\NguyenVanSon_20049891\crawldata\crawpy\crawpy\spiders
+scrapy crawl ck_son
+
+scrapy startproject crawpy
+scrapy genspider example example.com
+
+scrapy shell 'https://vnexpress.net/huyen-co-ten-dai-nhat-thuoc-tinh-nao-4725880.html'
+links = response.xpath('//article[@class="item-news item-news-common thumb-left"]/h3[@class="title-news"]/a/@href').getall()
+response.xpath('//header/h1/text()').get()
+
+# /html/body/div[2]/div/main/section[2]/div/div/div[1]/div[1]/section/h1
+
+
+## truy vấn ##
+table = pyarrow.json.read_json(LOCAL_FILE_PATH)
+/html/body/main/div[3]/div/div/div[1]/div/section[1]/div/ul/li[1]/div/div/div[2]/h3/a
+
+
+response.xpath('//a[@class="text-lg font-bold transition-all text-primary"]/@href').getall()
+
+response.xpath('//h1[@class="text-2xl font-bold text-black"]/text()').get()
+
+
+-------
+C:\SON.admin\VIII\BigData\NguyenVanSon_20049891\NguyenVanSon_20049891\dags
+
+python kafka_procedure.py --bootstrap-servers localhost:19094 --topic Nguyenvanson_Topic --csv-file 'C:/SON.admin/VIII/BigData/NguyenVanSon_20049891/NguyenVanSon_20049891/dags/heart.csv'
+python kafka_consumer.py --bootstrap-servers localhost:19094 --topic Nguyenvanson_Topic --consumer-group Nguyenvanson_Cgroup
+
+python kafka_procedure.py --bootstrap-servers localhost:19094 --topic demo --csv-file 'C:/SON.admin/VIII/BigData/NguyenVanSon_20049891/NguyenVanSon_20049891/data/download_file.csv'
+python kafka_consumer.py --bootstrap-servers localhost:29094 --topic demo --consumer-group son_group
+
+C:/SON.admin/VIII/BigData/NguyenVanSon_20049891/NguyenVanSon_20049891/dags/heart.csv
+
+------
+python query.py
+
+
+
+
+---- down file 
+import requests
+
+def download_file(url, save_path):
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(save_path, 'wb') as file:
+            file.write(response.content)
+        print("Downloaded successfully.")
+    else:
+        print("Failed to download file.")
+
+# Thay đổi url và đường dẫn lưu file theo ý muốn
+url = "https://example.com/path/to/file"
+save_path = "downloaded_file.txt"
+
+download_file(url, save_path)
+
